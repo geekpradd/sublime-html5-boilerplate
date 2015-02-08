@@ -2,6 +2,8 @@
 
 A Sublime Text 2/3 snippet to generate the HTML5 Boilerplate (v4.3.0) template.
 
+This snippet has been modified by geekpradd (Pradipta) to suit his personal needs. This is a custom fork.
+
 ## Install
 
 ### Option 1: Manual
@@ -12,7 +14,7 @@ Copy the files to your Packages directory.
 
 In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML Boilerplate' then press enter to install.
 
-## Usage
+##Usage
 
 With a blank HTML file open, type
 
